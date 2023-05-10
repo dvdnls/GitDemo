@@ -12,6 +12,11 @@ Lists are created using \- \* or \+ (note backslash is our escape char here)
 * Step 2 
 + Step 3
 
+### Test GitHub Integration
+- Just make changes...then use features to commit
+
+
+
 Or, you may simply type your numbers
 1. Step one
 2. Step 2
